@@ -77,27 +77,6 @@ A portfolio-grade data pipeline project showcasing ETL architecture end to end �
 
 <br/>
 
-<!-- 🔧 PLACEHOLDER: another project slot -->
-
-### 🧩 Project Name
-![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-CC785C?style=flat-square)
-![Status](https://img.shields.io/badge/Status-WIP-D4A27F?style=flat-square)
-
-**One-line tagline describing what it does**
-
-Short paragraph describing the project, the problem it solves, and the interesting technical bits.
-
-**🎯 Highlights:**
-- 🔹 &nbsp;Key feature or capability #1
-- 🔹 &nbsp;Key feature or capability #2
-- 🔹 &nbsp;Key feature or capability #3
-
-<br/>
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-<!-- ======================= TECH STACK ======================= -->
-
 ## 🛠️ Tech Stack & Tools
 
 **⚙️ Backend & Architecture**
@@ -153,6 +132,10 @@ Short paragraph describing the project, the problem it solves, and the interesti
 <br/>
 
 <br/>
+<div align="center">
+  <i>⭐ "Building secure, high-performance systems — one architecture decision at a time."</i>
+</div>
+
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
@@ -188,6 +171,3 @@ Short paragraph describing the project, the problem it solves, and the interesti
 
 <br/>
 
-<div align="center">
-  <i>⭐ "Building secure, high-performance systems — one architecture decision at a time."</i>
-</div>
