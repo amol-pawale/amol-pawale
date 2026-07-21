@@ -56,9 +56,45 @@ A portfolio-grade backend showcasing enterprise architecture patterns end to end
 
 <br/>
 
-<!-- 🔧 PLACEHOLDER: duplicate this block for each additional project you want to feature.
-     Fill in: title, badges, one-line tagline, description, and bullet points. -->
+<!-- ======================= PROJECT: Progress Dashboard ======================= -->
 
+### 📊 Progress Dashboard
+![Stack](https://img.shields.io/badge/Stack-Python_·_PostgreSQL_·_Grafana-CC785C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-6A9B5D?style=flat-square)
+
+**Personal growth dashboard aggregating 6 life/work data sources into a single Grafana view**
+
+A portfolio-grade data pipeline project showcasing ETL architecture end to end — multi-source extraction, secrets-managed authentication, idempotent Postgres upserts, and cloud dashboarding, all running unattended on scheduled cron jobs.
+
+**⚙️ How it's built:**
+- 🐍 &nbsp;**Python (extract → transform → load)** — one pipeline per source, same 4-file pattern throughout
+- 🔗 &nbsp;**6 sources** — GitHub, Jira, Google Calendar, Claude Code session logs, Obsidian vault, LinkedIn exports
+- 🐘 &nbsp;**PostgreSQL (Docker)** — idempotent schema-per-source with daily rollup views
+- 🔐 &nbsp;**Infisical (self-hosted)** — all secrets pulled at runtime via Machine Identity auth, zero `.env` files
+- 📊 &nbsp;**Grafana Cloud + PDC** — Private Data Source Connect tunnel, no inbound ports, dashboard provisioned via API
+- ⏰ &nbsp;**cron / launchd** — same script runs identically by hand or on schedule
+- 🪵 &nbsp;**Rotating logs per pipeline** — isolated failure handling, one bad source never blocks the rest
+
+<br/>
+
+<!-- 🔧 PLACEHOLDER: another project slot -->
+
+### 🧩 Project Name
+![Stack](https://img.shields.io/badge/Stack-Tech_·_Tech-CC785C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-WIP-D4A27F?style=flat-square)
+
+**One-line tagline describing what it does**
+
+Short paragraph describing the project, the problem it solves, and the interesting technical bits.
+
+**🎯 Highlights:**
+- 🔹 &nbsp;Key feature or capability #1
+- 🔹 &nbsp;Key feature or capability #2
+- 🔹 &nbsp;Key feature or capability #3
+
+<br/>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 <!-- ======================= TECH STACK ======================= -->
 
