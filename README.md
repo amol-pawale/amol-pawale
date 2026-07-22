@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=CC785C&center=true&vCenter=true&width=600&lines=Backend+Architecture+%E2%9A%99%EF%B8%8F;Salesforce+Integrations+%E2%98%81%EF%B8%8F;Clean+Architecture+%2B+.NET+10;Aspiring+Solutions+Architect+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amol-pawale&label=Profile%20views&color=CC785C&style=flat" alt="profile views" />
-</p>
-
 </div>
 
 <!-- ======================= INTRO ======================= -->
