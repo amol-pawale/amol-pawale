@@ -161,7 +161,7 @@ A portfolio-grade data pipeline project showcasing ETL architecture end to end â
 <img width="70%" src="https://streak-stats.demolab.com?user=amol-pawale&hide_border=true&background=FAF9F5&ring=CC785C&fire=CC785C&currStreakLabel=CC785C&currStreakNum=3D3D3A&sideNums=3D3D3A&sideLabels=CC785C&dates=787672&stroke=CC785C&titleColor=CC785C" alt="GitHub Streak" />
 
 <!-- Row 3: Activity graph, full width -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amol-pawale&hide_border=true&bg_color=FAF9F5&color=3D3D3A&title_color=CC785C&line=CC785C&point=CC785C&area=true&area_color=CC785C" alt="Activity Graph" />
+<img width="100%" src="./github-metrics.svg" alt="Activity Graph" />
 
 </div>
 
